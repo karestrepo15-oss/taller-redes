@@ -85,4 +85,4 @@ La colección exportada está en `coleccion-postman.json` (importar en Postman �
 
 **Respuesta 401 al omitir el encabezado:**
 
-![Respuesta 401](capturas/401.png)
+![Respuesta 401](capturas/captura401.png)
